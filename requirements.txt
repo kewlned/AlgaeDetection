@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+numpy
+pusher
+joblib
+python-dotenv
+websocket-client
+twilio
